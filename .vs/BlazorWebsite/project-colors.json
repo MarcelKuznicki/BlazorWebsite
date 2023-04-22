@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "929a36df-17d4-438d-8e02-c1e6a7d0c98d": {
+      "ProjectGuid": "929a36df-17d4-438d-8e02-c1e6a7d0c98d",
+      "DisplayName": "BlazorWebsite",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
